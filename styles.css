@@ -1,1 +1,24 @@
 /* your code */
+.Table{
+	border: 1px solid black;
+}
+.heading{
+	Background-color:blue;
+	color:white;
+}
+.tr2{
+	border: 1px solid black;
+	Background-color:lightgray
+}
+.tr3{
+	border: 1px solid black;
+	Background-color:lightgreen
+}
+.tr4{
+	border: 1px solid black;
+	Background-color:lightgray
+}
+.tr5{
+	border: 1px solid black;
+	Background-color:lightgreen
+}
